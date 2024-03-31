@@ -1,2 +1,2 @@
 # upskillcampus-python-winter-internship
-My weekly progress on the Winter Internship Python
+My weekly progress and final project on the Winter Internship Python
